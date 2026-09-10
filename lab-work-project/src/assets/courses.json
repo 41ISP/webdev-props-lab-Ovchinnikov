@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "React с нуля",
+    "category": "Frontend",
+    "image": "https://placehold.co/400x220?text=React",
+    "duration": "8 недель",
+    "level": "Начальный уровень",
+    "price": 15000,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Node.js для бэкенда",
+    "category": "Backend",
+    "image": "https://placehold.co/400x220?text=Node.js",
+    "duration": "10 недель",
+    "level": "Средний уровень",
+    "price": 18000,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Python для анализа данных",
+    "category": "Data Science",
+    "image": "https://placehold.co/400x220?text=Python",
+    "duration": "12 недель",
+    "level": "Начальный уровень",
+    "price": 20000,
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "title": "UX/UI дизайн интерфейсов",
+    "category": "Дизайн",
+    "image": "https://placehold.co/400x220?text=UX%2FUI",
+    "duration": "6 недель",
+    "level": "Начальный уровень",
+    "price": 13500,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "title": "Java Enterprise",
+    "category": "Backend",
+    "image": "https://placehold.co/400x220?text=Java",
+    "duration": "14 недель",
+    "level": "Продвинутый уровень",
+    "price": 24000,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Тестирование ПО",
+    "category": "QA",
+    "image": "https://placehold.co/400x220?text=QA",
+    "duration": "6 недель",
+    "level": "Начальный уровень",
+    "price": 11000,
+    "rating": 4.6
+  }
+]
