@@ -5,9 +5,9 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import Header from "./Components/Header.jsx";
 import Hero from "./Components/Hero.jsx";
-import Courses from "./Components/Courses.jsx";
 import Testimonials from './Components/Testimonials.jsx'
 import Footer from './Components/Footer.jsx'
+import CourseList from './Components/CourseList.jsx'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -15,7 +15,7 @@ function App() {
     <>
       <Header />
       <Hero/>
-      <Courses/>
+      <CourseList/>
       <Testimonials/>
       <Footer/>
     </>
